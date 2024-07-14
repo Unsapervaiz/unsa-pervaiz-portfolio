@@ -89,21 +89,18 @@ section#contact h2 {
     gap: 20px;
 }
 
+
 .project {
     background: #fff;
     border: 1px solid #ddd;
     border-radius: 10px;
     overflow: hidden;
-    width: calc(33% - 20px);
+    
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
 
-.project img {
-    width: 100%;
-    height: auto;
-    border-bottom: 3px solid #6a11cb;
-}
+
 
 .project-info {
     padding: 20px;
